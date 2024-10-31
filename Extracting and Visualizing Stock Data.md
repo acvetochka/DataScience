@@ -4,13 +4,13 @@
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
 
 ## Table of Contents
-- Define a Function that Makes a Graph
-- Question 1: Use yfinance to Extract Stock Data
-- Question 2: Use Webscraping to Extract Tesla Revenue Data
-- Question 3: Use yfinance to Extract Stock Data
-- Question 4: Use Webscraping to Extract GME Revenue Data
-- Question 5: Plot Tesla Stock Graph
-- Question 6: Plot GameStop Stock Graph
+- [Define a Function that Makes a Graph](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#define-graphing-function)
+- [Question 1: Use yfinance to Extract Stock Data](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-1-use-yfinance-to-extract-stock-data)
+- [Question 2: Use Webscraping to Extract Tesla Revenue Data](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-2-use-webscraping-to-extract-tesla-revenue-data)
+- [Question 3: Use yfinance to Extract Stock Data](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-3-use-yfinance-to-extract-stock-data)
+- [Question 4: Use Webscraping to Extract GME Revenue Data](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-4-use-webscraping-to-extract-gme-revenue-data)
+- [Question 5: Plot Tesla Stock Graph](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-5-plot-tesla-stock-graph)
+- [Question 6: Plot GameStop Stock Graph](https://github.com/acvetochka/DataScience/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.md#question-6-plot-gamestop-stock-graph)
 
 Estimated Time Needed: 30 min
 
